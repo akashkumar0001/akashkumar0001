@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Helixbiotech
+- 👋 Hi, I’m akash kumar
 - 👀 I’m interested in ...bioinformetics for analysis of NGS data
 - 🌱 I’m currently learning ...python and biopython
 - 💞️ I’m looking to collaborate on ...bioinformetics learning to explore human genome
